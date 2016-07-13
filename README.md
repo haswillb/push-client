@@ -16,7 +16,7 @@ pushclient_client_1 exited with code 0
 
 That's because your creds aren't right!
 
-### client.rb
+### Making authenticated requests
 
-client.rb is the only file you should have to modify in this repo. Open it up and you'll see a place to add
-your app_id and credentials (from the UI). Below that is a sample message object.
+`client.rb` is the only file you should have to modify in this repo. Open it up and you'll see a place to add
+your `app_id` and credentials (from the UI). Below that is a sample message object.
